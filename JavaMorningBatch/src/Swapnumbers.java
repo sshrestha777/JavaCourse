@@ -25,7 +25,7 @@ public class Swapnumbers
 		
 		//without using third variable
 		
-		first = first -second;
+		first = first - second;
 		second = first + second;
 		first = second - first;
 		
